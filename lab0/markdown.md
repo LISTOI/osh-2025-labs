@@ -35,4 +35,4 @@ flowchart TD
 ```
 
 my favourite formula:  
-\( E = mc^2\)
+\( E = mc^2 \)
